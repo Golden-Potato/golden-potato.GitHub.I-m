@@ -1,7 +1,5 @@
-<head>
-<meta name="google-site-verification" content="udJZrfe9tIyUWRiR_vTAcCjgF7nrcxbAVa1v2OndzcY" />
-golden-potato's GitHub page
-</head>
+
+<h2>golden-potato's GitHub page</h2>
 
 <body>
 <ul>
